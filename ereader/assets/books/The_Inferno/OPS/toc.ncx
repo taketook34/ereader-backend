@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru">
+<head>
+<meta name="dtb:uid" content="urn:uuid:c9a05514-1ce6-11e2-86b3-b737ee03444a"/>
+<meta name="dtb:depth" content="2"/>
+<meta name="dtb:totalPageNumber" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Инферно</text></docTitle>
+<navMap>
+<navPoint playOrder="1" id="id1">
+<navLabel>
+<text>АД</text>
+</navLabel>
+<content src="ch1-4.xhtml#id1"/>
+</navPoint>
+<navPoint playOrder="2" id="id2">
+<navLabel>
+<text>Песня двадцать пятая</text>
+</navLabel>
+<content src="ch1-11.xhtml#id2"/>
+</navPoint>
+</navMap>
+</ncx>

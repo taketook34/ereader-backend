@@ -1,0 +1,548 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <dc:title>Worth the Candle</dc:title>
+    <meta name="calibre:timestamp" content="2022-11-02T10:42:39.325890+00:00"/>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="alexander wales" opf:role="aut">Alexander Wales (cthulhuraejepsen)</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">92269fd9-0c5c-4051-8fb9-a5792a5046f8</dc:identifier>
+    <meta name="calibre:title_sort" content="worth the candle"/>
+    <dc:description>&lt;p&gt;A teenager struggling after the death of his best friend finds himself in a fantasy world - one which seems to be an amalgamation of every Dungeons and Dragons campaign they ever played together. Now he's stuck trying to find the answers to why he's there and what this world is trying to say. The most terrifying answer might be that this world is an expression of the person he was back on Earth.&lt;/p&gt;&lt;p&gt;Note: Up there at the top, it says "Creator Chose Not To Use Archive Warnings". This is very distinct from "No Archive Warnings Apply". The warning that there are no warnings is your only warning; do with it what you will.&lt;/p&gt;&lt;p&gt;This story is also &lt;a href="https://www.royalroad.com/fiction/25137/worth-the-candle" rel="nofollow"&gt;cross-posted on Royal Road.&lt;/a&gt; and &lt;a href="https://alexanderwales.com/worth-the-candle-ch-1/" rel="nofollow"&gt;my website&lt;/a&gt;.&lt;/p&gt;</dc:description>
+    <dc:publisher>Archive of Our Own</dc:publisher>
+    <dc:subject>Fanworks</dc:subject>
+    <dc:subject>Choose Not To Use Archive Warnings</dc:subject>
+    <dc:subject>Original Work</dc:subject>
+    <dc:subject>WorthTheCandle</dc:subject>
+    <dc:subject>LitRPG</dc:subject>
+    <dc:subject>Self-Insert</dc:subject>
+    <dc:subject>Alternate Universe - Fantasy</dc:subject>
+    <dc:subject>Not Rated</dc:subject>
+    <dc:date>2021-08-07T00:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item id="html259" href="Worth the Candle_split_000.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html258" href="Worth the Candle_split_001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html257" href="Worth the Candle_split_002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html256" href="Worth the Candle_split_003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html255" href="Worth the Candle_split_004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html254" href="Worth the Candle_split_005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html253" href="Worth the Candle_split_006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html252" href="Worth the Candle_split_007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html251" href="Worth the Candle_split_008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html250" href="Worth the Candle_split_009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html249" href="Worth the Candle_split_010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html248" href="Worth the Candle_split_011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html247" href="Worth the Candle_split_012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html246" href="Worth the Candle_split_013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html245" href="Worth the Candle_split_014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html244" href="Worth the Candle_split_015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html243" href="Worth the Candle_split_016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html242" href="Worth the Candle_split_017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html241" href="Worth the Candle_split_018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html240" href="Worth the Candle_split_019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html239" href="Worth the Candle_split_020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html238" href="Worth the Candle_split_021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html237" href="Worth the Candle_split_022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html236" href="Worth the Candle_split_023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html235" href="Worth the Candle_split_024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html234" href="Worth the Candle_split_025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html233" href="Worth the Candle_split_026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html232" href="Worth the Candle_split_027.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html231" href="Worth the Candle_split_028.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html230" href="Worth the Candle_split_029.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html229" href="Worth the Candle_split_030.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html228" href="Worth the Candle_split_031.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html227" href="Worth the Candle_split_032.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html226" href="Worth the Candle_split_033.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html225" href="Worth the Candle_split_034.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html224" href="Worth the Candle_split_035.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html223" href="Worth the Candle_split_036.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html222" href="Worth the Candle_split_037.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html221" href="Worth the Candle_split_038.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html220" href="Worth the Candle_split_039.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html219" href="Worth the Candle_split_040.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html218" href="Worth the Candle_split_041.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html217" href="Worth the Candle_split_042.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html216" href="Worth the Candle_split_043.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html215" href="Worth the Candle_split_044.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html214" href="Worth the Candle_split_045.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html213" href="Worth the Candle_split_046.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html212" href="Worth the Candle_split_047.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html211" href="Worth the Candle_split_048.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html210" href="Worth the Candle_split_049.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html209" href="Worth the Candle_split_050.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html208" href="Worth the Candle_split_051.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html207" href="Worth the Candle_split_052.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html206" href="Worth the Candle_split_053.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html205" href="Worth the Candle_split_054.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html204" href="Worth the Candle_split_055.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html203" href="Worth the Candle_split_056.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html202" href="Worth the Candle_split_057.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html201" href="Worth the Candle_split_058.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html200" href="Worth the Candle_split_059.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html199" href="Worth the Candle_split_060.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html198" href="Worth the Candle_split_061.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html197" href="Worth the Candle_split_062.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html196" href="Worth the Candle_split_063.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html195" href="Worth the Candle_split_064.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html194" href="Worth the Candle_split_065.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html193" href="Worth the Candle_split_066.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html192" href="Worth the Candle_split_067.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html191" href="Worth the Candle_split_068.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html190" href="Worth the Candle_split_069.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html189" href="Worth the Candle_split_070.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html188" href="Worth the Candle_split_071.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html187" href="Worth the Candle_split_072.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html186" href="Worth the Candle_split_073.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html185" href="Worth the Candle_split_074.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html184" href="Worth the Candle_split_075.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html183" href="Worth the Candle_split_076.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html182" href="Worth the Candle_split_077.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html181" href="Worth the Candle_split_078.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html180" href="Worth the Candle_split_079.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html179" href="Worth the Candle_split_080.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html178" href="Worth the Candle_split_081.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html177" href="Worth the Candle_split_082.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html176" href="Worth the Candle_split_083.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html175" href="Worth the Candle_split_084.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html174" href="Worth the Candle_split_085.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html173" href="Worth the Candle_split_086.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html172" href="Worth the Candle_split_087.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html171" href="Worth the Candle_split_088.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html170" href="Worth the Candle_split_089.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html169" href="Worth the Candle_split_090.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html168" href="Worth the Candle_split_091.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html167" href="Worth the Candle_split_092.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html166" href="Worth the Candle_split_093.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html165" href="Worth the Candle_split_094.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html164" href="Worth the Candle_split_095.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html163" href="Worth the Candle_split_096.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html162" href="Worth the Candle_split_097.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html161" href="Worth the Candle_split_098.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html160" href="Worth the Candle_split_099.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html159" href="Worth the Candle_split_100.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html158" href="Worth the Candle_split_101.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html157" href="Worth the Candle_split_102.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html156" href="Worth the Candle_split_103.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html155" href="Worth the Candle_split_104.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html154" href="Worth the Candle_split_105.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html153" href="Worth the Candle_split_106.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html152" href="Worth the Candle_split_107.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html151" href="Worth the Candle_split_108.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html150" href="Worth the Candle_split_109.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html149" href="Worth the Candle_split_110.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html148" href="Worth the Candle_split_111.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html147" href="Worth the Candle_split_112.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html146" href="Worth the Candle_split_113.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html145" href="Worth the Candle_split_114.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html144" href="Worth the Candle_split_115.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html143" href="Worth the Candle_split_116.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html142" href="Worth the Candle_split_117.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html141" href="Worth the Candle_split_118.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html140" href="Worth the Candle_split_119.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html139" href="Worth the Candle_split_120.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html138" href="Worth the Candle_split_121.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html137" href="Worth the Candle_split_122.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html136" href="Worth the Candle_split_123.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html135" href="Worth the Candle_split_124.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html134" href="Worth the Candle_split_125.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html133" href="Worth the Candle_split_126.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html132" href="Worth the Candle_split_127.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html131" href="Worth the Candle_split_128.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html130" href="Worth the Candle_split_129.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html129" href="Worth the Candle_split_130.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html128" href="Worth the Candle_split_131.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html127" href="Worth the Candle_split_132.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html126" href="Worth the Candle_split_133.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html125" href="Worth the Candle_split_134.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html124" href="Worth the Candle_split_135.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html123" href="Worth the Candle_split_136.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html122" href="Worth the Candle_split_137.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html121" href="Worth the Candle_split_138.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html120" href="Worth the Candle_split_139.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html119" href="Worth the Candle_split_140.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html118" href="Worth the Candle_split_141.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html117" href="Worth the Candle_split_142.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html116" href="Worth the Candle_split_143.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html115" href="Worth the Candle_split_144.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html114" href="Worth the Candle_split_145.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html113" href="Worth the Candle_split_146.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html112" href="Worth the Candle_split_147.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html111" href="Worth the Candle_split_148.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html110" href="Worth the Candle_split_149.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html109" href="Worth the Candle_split_150.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html108" href="Worth the Candle_split_151.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html107" href="Worth the Candle_split_152.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html106" href="Worth the Candle_split_153.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html105" href="Worth the Candle_split_154.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html104" href="Worth the Candle_split_155.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html103" href="Worth the Candle_split_156.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html102" href="Worth the Candle_split_157.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html101" href="Worth the Candle_split_158.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html100" href="Worth the Candle_split_159.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html99" href="Worth the Candle_split_160.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html98" href="Worth the Candle_split_161.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html97" href="Worth the Candle_split_162.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html96" href="Worth the Candle_split_163.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html95" href="Worth the Candle_split_164.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html94" href="Worth the Candle_split_165.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html93" href="Worth the Candle_split_166.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html92" href="Worth the Candle_split_167.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html91" href="Worth the Candle_split_168.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html90" href="Worth the Candle_split_169.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html89" href="Worth the Candle_split_170.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html88" href="Worth the Candle_split_171.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html87" href="Worth the Candle_split_172.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html86" href="Worth the Candle_split_173.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html85" href="Worth the Candle_split_174.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html84" href="Worth the Candle_split_175.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html83" href="Worth the Candle_split_176.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html82" href="Worth the Candle_split_177.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html81" href="Worth the Candle_split_178.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html80" href="Worth the Candle_split_179.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html79" href="Worth the Candle_split_180.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html78" href="Worth the Candle_split_181.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html77" href="Worth the Candle_split_182.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html76" href="Worth the Candle_split_183.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html75" href="Worth the Candle_split_184.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html74" href="Worth the Candle_split_185.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html73" href="Worth the Candle_split_186.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html72" href="Worth the Candle_split_187.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html71" href="Worth the Candle_split_188.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html70" href="Worth the Candle_split_189.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html69" href="Worth the Candle_split_190.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html68" href="Worth the Candle_split_191.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html67" href="Worth the Candle_split_192.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html66" href="Worth the Candle_split_193.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html65" href="Worth the Candle_split_194.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html64" href="Worth the Candle_split_195.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html63" href="Worth the Candle_split_196.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html62" href="Worth the Candle_split_197.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html61" href="Worth the Candle_split_198.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html60" href="Worth the Candle_split_199.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html59" href="Worth the Candle_split_200.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html58" href="Worth the Candle_split_201.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html57" href="Worth the Candle_split_202.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html56" href="Worth the Candle_split_203.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html55" href="Worth the Candle_split_204.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html54" href="Worth the Candle_split_205.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html53" href="Worth the Candle_split_206.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html52" href="Worth the Candle_split_207.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html51" href="Worth the Candle_split_208.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html50" href="Worth the Candle_split_209.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html49" href="Worth the Candle_split_210.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html48" href="Worth the Candle_split_211.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html47" href="Worth the Candle_split_212.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html46" href="Worth the Candle_split_213.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html45" href="Worth the Candle_split_214.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html44" href="Worth the Candle_split_215.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html43" href="Worth the Candle_split_216.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html42" href="Worth the Candle_split_217.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html41" href="Worth the Candle_split_218.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html40" href="Worth the Candle_split_219.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html39" href="Worth the Candle_split_220.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html38" href="Worth the Candle_split_221.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html37" href="Worth the Candle_split_222.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html36" href="Worth the Candle_split_223.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html35" href="Worth the Candle_split_224.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html34" href="Worth the Candle_split_225.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html33" href="Worth the Candle_split_226.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html32" href="Worth the Candle_split_227.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html31" href="Worth the Candle_split_228.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html30" href="Worth the Candle_split_229.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html29" href="Worth the Candle_split_230.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html28" href="Worth the Candle_split_231.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html27" href="Worth the Candle_split_232.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html26" href="Worth the Candle_split_233.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html25" href="Worth the Candle_split_234.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html24" href="Worth the Candle_split_235.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html23" href="Worth the Candle_split_236.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html22" href="Worth the Candle_split_237.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html21" href="Worth the Candle_split_238.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html20" href="Worth the Candle_split_239.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html19" href="Worth the Candle_split_240.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html18" href="Worth the Candle_split_241.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html17" href="Worth the Candle_split_242.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html16" href="Worth the Candle_split_243.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html15" href="Worth the Candle_split_244.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html14" href="Worth the Candle_split_245.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html13" href="Worth the Candle_split_246.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html12" href="Worth the Candle_split_247.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html11" href="Worth the Candle_split_248.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html10" href="Worth the Candle_split_249.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html9" href="Worth the Candle_split_250.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html8" href="Worth the Candle_split_251.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html7" href="Worth the Candle_split_252.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html6" href="Worth the Candle_split_253.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html5" href="Worth the Candle_split_254.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html4" href="Worth the Candle_split_255.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html3" href="Worth the Candle_split_256.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html2" href="Worth the Candle_split_257.xhtml" media-type="application/xhtml+xml"/>
+    <item id="html1" href="Worth the Candle_split_258.xhtml" media-type="application/xhtml+xml"/>
+    <item id="added" href="img1.png" media-type="image/png"/>
+    <item id="page_css" href="page_styles.css" media-type="text/css"/>
+    <item id="css" href="stylesheet.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="html259"/>
+    <itemref idref="html258"/>
+    <itemref idref="html257"/>
+    <itemref idref="html256"/>
+    <itemref idref="html255"/>
+    <itemref idref="html254"/>
+    <itemref idref="html253"/>
+    <itemref idref="html252"/>
+    <itemref idref="html251"/>
+    <itemref idref="html250"/>
+    <itemref idref="html249"/>
+    <itemref idref="html248"/>
+    <itemref idref="html247"/>
+    <itemref idref="html246"/>
+    <itemref idref="html245"/>
+    <itemref idref="html244"/>
+    <itemref idref="html243"/>
+    <itemref idref="html242"/>
+    <itemref idref="html241"/>
+    <itemref idref="html240"/>
+    <itemref idref="html239"/>
+    <itemref idref="html238"/>
+    <itemref idref="html237"/>
+    <itemref idref="html236"/>
+    <itemref idref="html235"/>
+    <itemref idref="html234"/>
+    <itemref idref="html233"/>
+    <itemref idref="html232"/>
+    <itemref idref="html231"/>
+    <itemref idref="html230"/>
+    <itemref idref="html229"/>
+    <itemref idref="html228"/>
+    <itemref idref="html227"/>
+    <itemref idref="html226"/>
+    <itemref idref="html225"/>
+    <itemref idref="html224"/>
+    <itemref idref="html223"/>
+    <itemref idref="html222"/>
+    <itemref idref="html221"/>
+    <itemref idref="html220"/>
+    <itemref idref="html219"/>
+    <itemref idref="html218"/>
+    <itemref idref="html217"/>
+    <itemref idref="html216"/>
+    <itemref idref="html215"/>
+    <itemref idref="html214"/>
+    <itemref idref="html213"/>
+    <itemref idref="html212"/>
+    <itemref idref="html211"/>
+    <itemref idref="html210"/>
+    <itemref idref="html209"/>
+    <itemref idref="html208"/>
+    <itemref idref="html207"/>
+    <itemref idref="html206"/>
+    <itemref idref="html205"/>
+    <itemref idref="html204"/>
+    <itemref idref="html203"/>
+    <itemref idref="html202"/>
+    <itemref idref="html201"/>
+    <itemref idref="html200"/>
+    <itemref idref="html199"/>
+    <itemref idref="html198"/>
+    <itemref idref="html197"/>
+    <itemref idref="html196"/>
+    <itemref idref="html195"/>
+    <itemref idref="html194"/>
+    <itemref idref="html193"/>
+    <itemref idref="html192"/>
+    <itemref idref="html191"/>
+    <itemref idref="html190"/>
+    <itemref idref="html189"/>
+    <itemref idref="html188"/>
+    <itemref idref="html187"/>
+    <itemref idref="html186"/>
+    <itemref idref="html185"/>
+    <itemref idref="html184"/>
+    <itemref idref="html183"/>
+    <itemref idref="html182"/>
+    <itemref idref="html181"/>
+    <itemref idref="html180"/>
+    <itemref idref="html179"/>
+    <itemref idref="html178"/>
+    <itemref idref="html177"/>
+    <itemref idref="html176"/>
+    <itemref idref="html175"/>
+    <itemref idref="html174"/>
+    <itemref idref="html173"/>
+    <itemref idref="html172"/>
+    <itemref idref="html171"/>
+    <itemref idref="html170"/>
+    <itemref idref="html169"/>
+    <itemref idref="html168"/>
+    <itemref idref="html167"/>
+    <itemref idref="html166"/>
+    <itemref idref="html165"/>
+    <itemref idref="html164"/>
+    <itemref idref="html163"/>
+    <itemref idref="html162"/>
+    <itemref idref="html161"/>
+    <itemref idref="html160"/>
+    <itemref idref="html159"/>
+    <itemref idref="html158"/>
+    <itemref idref="html157"/>
+    <itemref idref="html156"/>
+    <itemref idref="html155"/>
+    <itemref idref="html154"/>
+    <itemref idref="html153"/>
+    <itemref idref="html152"/>
+    <itemref idref="html151"/>
+    <itemref idref="html150"/>
+    <itemref idref="html149"/>
+    <itemref idref="html148"/>
+    <itemref idref="html147"/>
+    <itemref idref="html146"/>
+    <itemref idref="html145"/>
+    <itemref idref="html144"/>
+    <itemref idref="html143"/>
+    <itemref idref="html142"/>
+    <itemref idref="html141"/>
+    <itemref idref="html140"/>
+    <itemref idref="html139"/>
+    <itemref idref="html138"/>
+    <itemref idref="html137"/>
+    <itemref idref="html136"/>
+    <itemref idref="html135"/>
+    <itemref idref="html134"/>
+    <itemref idref="html133"/>
+    <itemref idref="html132"/>
+    <itemref idref="html131"/>
+    <itemref idref="html130"/>
+    <itemref idref="html129"/>
+    <itemref idref="html128"/>
+    <itemref idref="html127"/>
+    <itemref idref="html126"/>
+    <itemref idref="html125"/>
+    <itemref idref="html124"/>
+    <itemref idref="html123"/>
+    <itemref idref="html122"/>
+    <itemref idref="html121"/>
+    <itemref idref="html120"/>
+    <itemref idref="html119"/>
+    <itemref idref="html118"/>
+    <itemref idref="html117"/>
+    <itemref idref="html116"/>
+    <itemref idref="html115"/>
+    <itemref idref="html114"/>
+    <itemref idref="html113"/>
+    <itemref idref="html112"/>
+    <itemref idref="html111"/>
+    <itemref idref="html110"/>
+    <itemref idref="html109"/>
+    <itemref idref="html108"/>
+    <itemref idref="html107"/>
+    <itemref idref="html106"/>
+    <itemref idref="html105"/>
+    <itemref idref="html104"/>
+    <itemref idref="html103"/>
+    <itemref idref="html102"/>
+    <itemref idref="html101"/>
+    <itemref idref="html100"/>
+    <itemref idref="html99"/>
+    <itemref idref="html98"/>
+    <itemref idref="html97"/>
+    <itemref idref="html96"/>
+    <itemref idref="html95"/>
+    <itemref idref="html94"/>
+    <itemref idref="html93"/>
+    <itemref idref="html92"/>
+    <itemref idref="html91"/>
+    <itemref idref="html90"/>
+    <itemref idref="html89"/>
+    <itemref idref="html88"/>
+    <itemref idref="html87"/>
+    <itemref idref="html86"/>
+    <itemref idref="html85"/>
+    <itemref idref="html84"/>
+    <itemref idref="html83"/>
+    <itemref idref="html82"/>
+    <itemref idref="html81"/>
+    <itemref idref="html80"/>
+    <itemref idref="html79"/>
+    <itemref idref="html78"/>
+    <itemref idref="html77"/>
+    <itemref idref="html76"/>
+    <itemref idref="html75"/>
+    <itemref idref="html74"/>
+    <itemref idref="html73"/>
+    <itemref idref="html72"/>
+    <itemref idref="html71"/>
+    <itemref idref="html70"/>
+    <itemref idref="html69"/>
+    <itemref idref="html68"/>
+    <itemref idref="html67"/>
+    <itemref idref="html66"/>
+    <itemref idref="html65"/>
+    <itemref idref="html64"/>
+    <itemref idref="html63"/>
+    <itemref idref="html62"/>
+    <itemref idref="html61"/>
+    <itemref idref="html60"/>
+    <itemref idref="html59"/>
+    <itemref idref="html58"/>
+    <itemref idref="html57"/>
+    <itemref idref="html56"/>
+    <itemref idref="html55"/>
+    <itemref idref="html54"/>
+    <itemref idref="html53"/>
+    <itemref idref="html52"/>
+    <itemref idref="html51"/>
+    <itemref idref="html50"/>
+    <itemref idref="html49"/>
+    <itemref idref="html48"/>
+    <itemref idref="html47"/>
+    <itemref idref="html46"/>
+    <itemref idref="html45"/>
+    <itemref idref="html44"/>
+    <itemref idref="html43"/>
+    <itemref idref="html42"/>
+    <itemref idref="html41"/>
+    <itemref idref="html40"/>
+    <itemref idref="html39"/>
+    <itemref idref="html38"/>
+    <itemref idref="html37"/>
+    <itemref idref="html36"/>
+    <itemref idref="html35"/>
+    <itemref idref="html34"/>
+    <itemref idref="html33"/>
+    <itemref idref="html32"/>
+    <itemref idref="html31"/>
+    <itemref idref="html30"/>
+    <itemref idref="html29"/>
+    <itemref idref="html28"/>
+    <itemref idref="html27"/>
+    <itemref idref="html26"/>
+    <itemref idref="html25"/>
+    <itemref idref="html24"/>
+    <itemref idref="html23"/>
+    <itemref idref="html22"/>
+    <itemref idref="html21"/>
+    <itemref idref="html20"/>
+    <itemref idref="html19"/>
+    <itemref idref="html18"/>
+    <itemref idref="html17"/>
+    <itemref idref="html16"/>
+    <itemref idref="html15"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+</package>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="bookid" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/">
+<metadata>
+<dc:title>Инферно</dc:title>
+<dc:creator>Дэн Браун</dc:creator>
+<meta name="FB2.book-info.translator" content="Виктор В. Антонов"/>
+<dc:language>ru</dc:language>
+<dc:description>…Оказавшись в самом загадочном городе Италии – Флоренции, профессор Лэнгдон, специалист по кодам, символам и истории искусства, неожиданно попадает в водоворот событий, которые способны привести к гибели все человечество… И помешать этому может только разгадка тайны, некогда зашифрованной Данте в строках бессмертной эпической поэмы… </dc:description>
+<meta name="FB2.book-info.date" content="2013-01-01"/>
+<dc:date>2013</dc:date>
+<meta name="FB2.book-info.sequence" content="Роберт Лэнгдон; number=4"/>
+<meta name="FB2.document-info.program-used" content="FictionBook Editor Release 2.6.7"/>
+<meta name="FB2.document-info.src-url" content="http://www.litres.ru/pages/biblio_book/?art=35256975"/>
+<meta name="FB2.document-info.src-ocr" content="Текст предоставлен правообладателем"/>
+<meta name="FB2.document-info.history" content="v 1.0 – создание fb2 – (nys23) "/>
+<meta name="FB2.document-info.id" content="c9a05514-1ce6-11e2-86b3-b737ee03444a"/>
+<meta name="FB2.document-info.version" content="1.0"/>
+<meta name="FB2.document-info.date" content="2013-01-01"/>
+<dc:identifier id="bookid">urn:uuid:c9a05514-1ce6-11e2-86b3-b737ee03444a</dc:identifier>
+<dc:publisher>АСТ</dc:publisher>
+<meta name="FB2.publish-info.book-name" content="Инферно"/>
+<meta name="FB2.publish-info.city" content="Москва"/>
+<meta name="FB2.publish-info.year" content="2018"/>
+<dc:identifier id="bookid1">isbn:978-5-17-108451-6</dc:identifier>
+<meta name="FB2EPUB.version" content="0.5.0"/>
+<meta name="FB2EPUB.conversionDate" content="2019-04-30T22:10:34+02:00"/>
+<meta name="cover" content="id1"/>
+</metadata>
+<manifest>
+<item href="style.css" media-type="text/css" id="id2"/>
+<item href="cover.xhtml" media-type="application/xhtml+xml" id="id3"/>
+<item href="fonts/Times-New-Roman-400-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id4"/>
+<item href="ch1-19.xhtml" media-type="application/xhtml+xml" id="id5"/>
+<item href="ch1-11.xhtml" media-type="application/xhtml+xml" id="id6"/>
+<item href="ch1-3.xhtml" media-type="application/xhtml+xml" id="id7"/>
+<item href="ch1-18.xhtml" media-type="application/xhtml+xml" id="id8"/>
+<item href="ch1-2.xhtml" media-type="application/xhtml+xml" id="id9"/>
+<item href="ch1-10.xhtml" media-type="application/xhtml+xml" id="id10"/>
+<item href="ch1-17.xhtml" media-type="application/xhtml+xml" id="id11"/>
+<item href="images/cover.jpg" media-type="image/jpeg" id="id1"/>
+<item href="ch1-9.xhtml" media-type="application/xhtml+xml" id="id12"/>
+<item href="ch1-14.xhtml" media-type="application/xhtml+xml" id="id13"/>
+<item href="ch1-13.xhtml" media-type="application/xhtml+xml" id="id14"/>
+<item href="ch1-5.xhtml" media-type="application/xhtml+xml" id="id15"/>
+<item href="ch2.xhtml" media-type="application/xhtml+xml" id="id16"/>
+<item href="ch1-12.xhtml" media-type="application/xhtml+xml" id="id17"/>
+<item href="ch1-4.xhtml" media-type="application/xhtml+xml" id="id18"/>
+<item href="ch1.xhtml" media-type="application/xhtml+xml" id="id19"/>
+<item href="fonts/Times-New-Roman-700-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id20"/>
+<item href="ch1-21.xhtml" media-type="application/xhtml+xml" id="id21"/>
+<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="id22"/>
+<item href="ch1-20.xhtml" media-type="application/xhtml+xml" id="id23"/>
+<item href="fonts/Times-New-Roman-700-Italic-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id24"/>
+<item href="fonts/Times-New-Roman-400-Italic-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf" media-type="application/vnd.ms-opentype" id="id25"/>
+<item href="ch1-1.xhtml" media-type="application/xhtml+xml" id="id26"/>
+<item href="ch1-16.xhtml" media-type="application/xhtml+xml" id="id27"/>
+<item href="ch1-8.xhtml" media-type="application/xhtml+xml" id="id28"/>
+<item href="ch1-15.xhtml" media-type="application/xhtml+xml" id="id29"/>
+<item href="ch1-7.xhtml" media-type="application/xhtml+xml" id="id30"/>
+<item href="ch1-6.xhtml" media-type="application/xhtml+xml" id="id31"/>
+</manifest>
+<spine toc="id22">
+<itemref idref="id3"/>
+<itemref idref="id19"/>
+<itemref idref="id26"/>
+<itemref idref="id9"/>
+<itemref idref="id7"/>
+<itemref idref="id18"/>
+<itemref idref="id15"/>
+<itemref idref="id31"/>
+<itemref idref="id30"/>
+<itemref idref="id28"/>
+<itemref idref="id12"/>
+<itemref idref="id10"/>
+<itemref idref="id6"/>
+<itemref idref="id17"/>
+<itemref idref="id14"/>
+<itemref idref="id13"/>
+<itemref idref="id29"/>
+<itemref idref="id27"/>
+<itemref idref="id11"/>
+<itemref idref="id8"/>
+<itemref idref="id5"/>
+<itemref idref="id23"/>
+<itemref idref="id21"/>
+<itemref idref="id16"/>
+</spine>
+<guide><reference href="images/cover.jpg" type="cover" title="cover"/>
+</guide></package>

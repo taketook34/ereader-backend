@@ -1,0 +1,134 @@
+body.cover {
+	margin: 0px;
+	oeb-column-number: 1;
+	padding: 0px;
+}
+
+svg.cover-svg {
+	height: 100%;
+	width: 100%;
+}
+
+.z {
+	font-family: 'Times New Roman', serif;
+	margin-right: 8pt;
+}
+
+.title {
+	font-size: 2.2em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 0px;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+.p {
+	margin: 0px 0px 0.5em 0px;
+	text-align: inherit;
+	text-indent: 0px;
+}
+
+.p1 {
+	margin: 0px;
+	text-align: justify;
+	text-indent: 1.5em;
+}
+
+.subtitle {
+	font-style: italic;
+	font-weight: bold;
+	margin: 0.5em 2em;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+	text-indent: 0px;
+}
+
+.epigraph {
+	font-style: italic;
+	margin: 1em 1em 2em 30%;
+	text-align: left;
+}
+
+.empty-line {
+	height: 1em;
+	margin: 0px;
+}
+
+.a {
+	font-size: 0.7em;
+	line-height: 0.1;
+	vertical-align: super;
+}
+
+.cite {
+	font-size: 0.95em;
+	margin: 0.5em 0px 0.5em 1em;
+}
+
+.p2 {
+	margin: 0px;
+	text-align: center;
+	text-indent: 1.5em;
+}
+
+.poem {
+	margin: 0.5em 0px 0.5em 2em;
+}
+
+.title1 {
+	font-size: 1.8em;
+	font-weight: bold;
+	margin: 1em 0px 0.5em 0px;
+	page-break-after: avoid;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+.stanza {
+	margin: 0.5em 0px;
+	page-break-inside: avoid;
+}
+
+.v {
+	margin: 0px;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+.v1 {
+	margin: 0px;
+	padding-left: 1em;
+	text-align: center;
+	text-indent: -1em;
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	font-style: italic;
+	font-weight: normal;
+	src: url(fonts/Times-New-Roman-400-Italic-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf);
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/Times-New-Roman-400-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf);
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	font-style: italic;
+	font-weight: bold;
+	src: url(fonts/Times-New-Roman-700-Italic-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf);
+}
+
+@font-face {
+	font-family: 'Times New Roman';
+	font-style: normal;
+	font-weight: bold;
+	src: url(fonts/Times-New-Roman-700-c9a05514-1ce6-11e2-86b3-b737ee03444a.otf);
+}
+
