@@ -2,7 +2,7 @@ from django.contrib import admin
 from .models import *
 
 class BookAdmin(admin.ModelAdmin):
-    list_display = ("id", "title", "author", "description", 'book_src', "cover_src", "time_create")
+    list_display = ("id", "title", "author", 'book_src', "cover_src", "time_create")
     search_fields = ('title', 'author', 'time_update')
     list_editable = ('book_src', 'cover_src')
 

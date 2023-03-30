@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-$8(2uqbe_%+3$v4n=_z(1sq#05^ua7@a@*1+i^#o)-=97apnsk
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['10.0.0.16', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', '127.0.0.1:8000', '10.246.30.171']
 
 
 # Application definition
@@ -37,13 +37,15 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'app',
     'rest_framework',
+    'corsheaders',
+    'app',
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
@@ -126,3 +128,19 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'assets')
 MEDIA_URL = '/assets/'
+
+
+# CORS_ORIGIN_ALLOW_ALL = False
+#
+# CORS_ALLOWED_ORIGINS = (
+#        'http://localhost:8000',
+#        'file://localhost:8000'
+# )
+CORS_ALLOW_ALL_ORIGINS = True # If this is used then `CORS_ALLOWED_ORIGINS` will not have any effect
+CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:3030',
+] # If this is used, then not need to use `CORS_ALLOW_ALL_ORIGINS = True`
+CORS_ALLOWED_ORIGIN_REGEXES = [
+    'http://localhost:3030',
+]
