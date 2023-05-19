@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'app',
+    'django_ftpserver',
 ]
 
 MIDDLEWARE = [
