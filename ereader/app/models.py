@@ -17,7 +17,7 @@ class Book(models.Model):
     #description = models.TextField(verbose_name="Опис")
     book_tags = models.ManyToManyField(Category, verbose_name="Теги")
     book_src = models.FileField(upload_to="books/", verbose_name="Книга")
-    cover_src = models.FileField(upload_to="covers/", null=True, verbose_name="Обладинка")
+    cover_src = models.FileField(upload_to="books/", null=True, verbose_name="Обладинка")
     folder_src = models.FileField(null=True, verbose_name="Папка для данних")
     #is_rendered = models.BooleanField(default=False, null=True)
     time_create = models.DateTimeField(auto_now_add=True, verbose_name="Час створення")
