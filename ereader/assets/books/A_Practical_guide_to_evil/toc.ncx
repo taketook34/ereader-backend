@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:a66f3462-7924-4483-b4c5-330cf7ffb15b" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+  </head>
+  <docTitle>
+    <text>A Practical Guide to Evil (all books)</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>A Practical Guide to Evil (all books)</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="ch001.xhtml#prologue" />
+    </navPoint>
+    <navPoint id="navPoint-2">
+      <navLabel>
+        <text>Chapter 1: Knife</text>
+      </navLabel>
+      <content src="ch002.xhtml#chapter-1-knife" />
+    </navPoint>
+    <navPoint id="navPoint-3">
+      <navLabel>
+        <text>Chapter 2: Invitation</text>
+      </navLabel>
+      <content src="ch003.xhtml#chapter-2-invitation" />
+    </navPoint>
+    <navPoint id="navPoint-4">
+      <navLabel>
+        <text>Chapter 3: Party</text>
+      </navLabel>
+      <content src="ch004.xhtml#chapter-3-party" />
+    </navPoint>
+    <navPoint id="navPoint-5">
+      <navLabel>
+        <text>Chapter 4: Name</text>
+      </navLabel>
+      <content src="ch005.xhtml#chapter-4-name" />
+    </navPoint>
+    <navPoint id="navPoint-6">
+      <navLabel>
+        <text>Chapter 5: Role</text>
+      </navLabel>
+      <content src="ch006.xhtml#chapter-5-role" />
+    </navPoint>
+    <navPoint id="navPoint-7">
+      <navLabel>
+        <text>Chapter 6: Aspect</text>
+      </navLabel>
+      <content src="ch007.xhtml#chapter-6-aspect" />
+    </navPoint>
+    <navPoint id="navPoint-8">
+      <navLabel>
+        <text>Chapter 7: Sword</text>
+      </navLabel>
+      <content src="ch008.xhtml#chapter-7-sword" />
+    </navPoint>
+    <navPoint id="navPoint-9">
+      <navLabel>
+        <text>Chapter 8: Introduction</text>
+      </navLabel>
+      <content src="ch009.xhtml#chapter-8-introduction" />
+    </navPoint>
+    <navPoint id="navPoint-10">
+      <navLabel>
+        <text>Chapter 9: Claimant</text>
+      </navLabel>
+      <content src="ch010.xhtml#chapter-9-claimant" />
+    </navPoint>
+    <navPoint id="navPoint-11">
+      <navLabel>
+        <text>Chapter 10: Menace</text>
+      </navLabel>
+      <content src="ch011.xhtml#chapter-10-menace" />
+    </navPoint>
+    <navPoint id="navPoint-12">
+      <navLabel>
+        <text>Chapter 11: Sucker Punch</text>
+      </navLabel>
+      <content src="ch012.xhtml#chapter-11-suckerpunch" />
+    </navPoint>
+    <navPoint id="navPoint-13">
+      <navLabel>
+        <text>Chapter 12: Squire</text>
+      </navLabel>
+      <content src="ch013.xhtml#chapter-12-squire" />
+    </navPoint>
+    <navPoint id="navPoint-14">
+      <navLabel>
+        <text>Chapter 13: Order</text>
+      </navLabel>
+      <content src="ch014.xhtml#chapter-13-order" />
+    </navPoint>
+    <navPoint id="navPoint-15">
+      <navLabel>
+        <text>Chapter 14: Villain</text>
+      </navLabel>
+      <content src="ch015.xhtml#chapter-14-villain" />
+    </navPoint>
+    <navPoint id="navPoint-16">
+      <navLabel>
+        <text>Chapter 15: Company</text>
+      </navLabel>
+      <content src="ch016.xhtml#chapter-15-company" />
+    </navPoint>
+    <navPoint id="navPoint-17">
+      <navLabel>
+        <text>Chapter 16: Game</text>
+      </navLabel>
+      <content src="ch017.xhtml#chapter-16-game" />
+    </navPoint>
+    <navPoint id="navPoint-18">
+      <navLabel>
+        <text>Chapter 17: Set</text>
+      </navLabel>
+      <content src="ch018.xhtml#chapter-17-set" />
+    </navPoint>
+    <navPoint id="navPoint-19">
+      <navLabel>
+        <text>Chapter 18: Match</text>
+      </navLabel>
+      <content src="ch019.xhtml#chapter-18-match" />
+    </navPoint>
+    <navPoint id="navPoint-20">
+      <navLabel>
+        <text>Chapter 19: Pivot</text>
+      </navLabel>
+      <content src="ch020.xhtml#chapter-19-pivot" />
+    </navPoint>
+    <navPoint id="navPoint-21">
+      <navLabel>
+        <text>Chapter 20: Rise</text>
+      </navLabel>
+      <content src="ch021.xhtml#chapter-20-rise" />
+    </navPoint>
+    <navPoint id="navPoint-22">
+      <navLabel>
+        <text>Chapter 21: Fall</text>
+      </navLabel>
+      <content src="ch022.xhtml#chapter-21-fall" />
+    </navPoint>
+    <navPoint id="navPoint-23">
+      <navLabel>
+        <text>Chapter 22: All According To</text>
+      </navLabel>
+      <content src="ch023.xhtml#chapter-22-all-accordingto" />
+    </navPoint>
+    <navPoint id="navPoint-24">
+      <navLabel>
+        <text>Chapter 23: Morok’s Plan</text>
+      </navLabel>
+      <content src="ch024.xhtml#chapter-23-moroksplan" />
+    </navPoint>
+    <navPoint id="navPoint-25">
+      <navLabel>
+        <text>Chapter 24: Aisha’s Plan</text>
+      </navLabel>
+      <content src="ch025.xhtml#chapter-24-aishasplan" />
+    </navPoint>
+    <navPoint id="navPoint-26">
+      <navLabel>
+        <text>Chapter 25: Snatcher’s Plan</text>
+      </navLabel>
+      <content src="ch026.xhtml#chapter-25-snatchers-plan" />
+    </navPoint>
+    <navPoint id="navPoint-27">
+      <navLabel>
+        <text>Chapter 26: Juniper’s Plan</text>
+      </navLabel>
+      <content src="ch027.xhtml#chapter-26-junipersplan" />
+    </navPoint>
+    <navPoint id="navPoint-28">
+      <navLabel>
+        <text>Chapter 27: Callow’s Plan</text>
+      </navLabel>
+      <content src="ch028.xhtml#chapter-27-callowsplan" />
+    </navPoint>
+    <navPoint id="navPoint-29">
+      <navLabel>
+        <text>Chapter 28: Win Condition</text>
+      </navLabel>
+      <content src="ch029.xhtml#chapter-28-wincondition" />
+    </navPoint>
+    <navPoint id="navPoint-30">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="ch030.xhtml#epilogue" />
+    </navPoint>
+    <navPoint id="navPoint-31">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="ch031.xhtml#prologue-1" />
+    </navPoint>
+    <navPoint id="navPoint-32">
+      <navLabel>
+        <text>Chapter 1: Supply</text>
+      </navLabel>
+      <content src="ch032.xhtml#chapter-1-supply" />
+    </navPoint>
+    <navPoint id="navPoint-33">
+      <navLabel>
+        <text>Chapter 2: Demand</text>
+      </navLabel>
+      <content src="ch033.xhtml#chapter-2-demand" />
+    </navPoint>
+    <navPoint id="navPoint-34">
+      <navLabel>
+        <text>Chapter 3: Cost</text>
+      </navLabel>
+      <content src="ch034.xhtml#chapter-3-cost" />
+    </navPoint>
+    <navPoint id="navPoint-35">
+      <navLabel>
+        <text>Heroic Interlude: Balestra</text>
+      </navLabel>
+      <content src="ch035.xhtml#heroic-interlude-balestra" />
+    </navPoint>
+    <navPoint id="navPoint-36">
+      <navLabel>
+        <text>Chapter 4: Return</text>
+      </navLabel>
+      <content src="ch036.xhtml#chapter-4-return" />
+    </navPoint>
+    <navPoint id="navPoint-37">
+      <navLabel>
+        <text>Chapter 5: Recognition</text>
+      </navLabel>
+      <content src="ch037.xhtml#chapter-5-recognition" />
+    </navPoint>
+    <navPoint id="navPoint-38">
+      <navLabel>
+        <text>Chapter 6: Rapport</text>
+      </navLabel>
+      <content src="ch038.xhtml#chapter-6-rapport" />
+    </navPoint>
+    <navPoint id="navPoint-39">
+      <navLabel>
+        <text>Chapter 7: Reception</text>
+      </navLabel>
+      <content src="ch039.xhtml#chapter-7-reception" />
+    </navPoint>
+    <navPoint id="navPoint-40">
+      <navLabel>
+        <text>Chapter 8: Reversal</text>
+      </navLabel>
+      <content src="ch040.xhtml#chapter-8-reversal" />
+    </navPoint>
+    <navPoint id="navPoint-41">
+      <navLabel>
+        <text>Chapter 9: Rematch</text>
+      </navLabel>
+      <content src="ch041.xhtml#chapter-9-rematch" />
+    </navPoint>
+    <navPoint id="navPoint-42">
+      <navLabel>
+        <text>Chapter 10: Release</text>
+      </navLabel>
+      <content src="ch042.xhtml#chapter-10-release" />
+    </navPoint>
+    <navPoint id="navPoint-43">
+      <navLabel>
+        <text>Chapter 11: Report</text>
+      </navLabel>
+      <content src="ch043.xhtml#chapter-11-report" />
+    </navPoint>
+    <navPoint id="navPoint-44">
+      <navLabel>
+        <text>Chapter 12: Reproval</text>
+      </navLabel>
+      <content src="ch044.xhtml#chapter-12-reproval" />
+    </navPoint>
+    <navPoint id="navPoint-45">
+      <navLabel>
+        <text>Heroic Interlude: Riposte</text>
+      </navLabel>
+      <content src="ch045.xhtml#heroic-interlude-riposte" />
+    </navPoint>
+    <navPoint id="navPoint-46">
+      <navLabel>
+        <text>Villainous Interlude: Coulisse</text>
+      </navLabel>
+      <content src="ch046.xhtml#villainous-interlude-coulisse" />
+    </navPoint>
+    <navPoint id="navPoint-47">
+      <navLabel>
+        <text>Chapter 13: Fireside</text>
+      </navLabel>
+      <content src="ch047.xhtml#chapter-13-fireside" />
+    </navPoint>
+    <navPoint id="navPoint-48">
+      <navLabel>
+        <text>Chapter 14: Situation</text>
+      </navLabel>
+      <content src="ch048.xhtml#chapter-14-situation" />
+    </navPoint>
+    <navPoint id="navPoint-49">
+      <navLabel>
+        <text>Chapter 15: Council</text>
+      </navLabel>
+      <content src="ch049.xhtml#chapter-15-council" />
+    </navPoint>
+    <navPoint id="navPoint-50">
+      <navLabel>
+        <text>Chapter 16: Trust</text>
+      </navLabel>
+      <content src="ch050.xhtml#chapter-16-trust" />
+    </navPoint>
+    <navPoint id="navPoint-51">
+      <navLabel>
+        <text>Chapter 17: Aplomb</text>
+      </navLabel>
+      <content src="ch051.xhtml#chapter-17-aplomb" />
+    </navPoint>
+    <navPoint id="navPoint-52">
+      <navLabel>
+        <text>Chapter 18: Tinder</text>
+      </navLabel>
+      <content src="ch052.xhtml#chapter-18-tinder" />
+    </navPoint>
+    <navPoint id="navPoint-53">
+      <navLabel>
+        <text>Chapter 19: Flame</text>
+      </navLabel>
+      <content src="ch053.xhtml#chapter-19-flame" />
+    </navPoint>
+    <navPoint id="navPoint-54">
+      <navLabel>
+        <text>Chapter 20: Ashes</text>
+      </navLabel>
+      <content src="ch054.xhtml#chapter-20-ashes" />
+    </navPoint>
+    <navPoint id="navPoint-55">
+      <navLabel>
+        <text>Chapter 21: Marchford</text>
+      </navLabel>
+      <content src="ch055.xhtml#chapter-21-marchford" />
+    </navPoint>
+    <navPoint id="navPoint-56">
+      <navLabel>
+        <text>Villainous Interlude: Coup de Théatre</text>
+      </navLabel>
+      <content src="ch056.xhtml#villainous-interlude-coup-dethéatre" />
+    </navPoint>
+    <navPoint id="navPoint-57">
+      <navLabel>
+        <text>Heroic Interlude: Attaque au Fer</text>
+      </navLabel>
+      <content src="ch057.xhtml#heroic-interlude-attaque-aufer" />
+    </navPoint>
+    <navPoint id="navPoint-58">
+      <navLabel>
+        <text>Chapter 22: Rescue</text>
+      </navLabel>
+      <content src="ch058.xhtml#chapter-22-rescue" />
+    </navPoint>
+    <navPoint id="navPoint-59">
+      <navLabel>
+        <text>Chapter 23: Defeat</text>
+      </navLabel>
+      <content src="ch059.xhtml#chapter-23-defeat" />
+    </navPoint>
+    <navPoint id="navPoint-60">
+      <navLabel>
+        <text>Chapter 24: Archer</text>
+      </navLabel>
+      <content src="ch060.xhtml#chapter-24-archer" />
+    </navPoint>
+    <navPoint id="navPoint-61">
+      <navLabel>
+        <text>Chapter 25: Wake</text>
+      </navLabel>
+      <content src="ch061.xhtml#chapter-25-wake" />
+    </navPoint>
+    <navPoint id="navPoint-62">
+      <navLabel>
+        <text>Chapter 26: Seek</text>
+      </navLabel>
+      <content src="ch062.xhtml#chapter-26-seek" />
+    </navPoint>
+    <navPoint id="navPoint-63">
+      <navLabel>
+        <text>Chapter 27: Cut</text>
+      </navLabel>
+      <content src="ch063.xhtml#chapter-27-cut" />
+    </navPoint>
+    <navPoint id="navPoint-64">
+      <navLabel>
+        <text>Chapter 28: Prelude</text>
+      </navLabel>
+      <content src="ch064.xhtml#chapter-28-prelude" />
+    </navPoint>
+    <navPoint id="navPoint-65">
+      <navLabel>
+        <text>Interlude: Greenskins</text>
+      </navLabel>
+      <content src="ch065.xhtml#interlude-greenskins" />
+    </navPoint>
+    <navPoint id="navPoint-66">
+      <navLabel>
+        <text>Chapter 29: Stand</text>
+      </navLabel>
+      <content src="ch066.xhtml#chapter-29-stand" />
+    </navPoint>
+    <navPoint id="navPoint-67">
+      <navLabel>
+        <text>Chapter 30: Deliver</text>
+      </navLabel>
+      <content src="ch067.xhtml#chapter-30-deliver" />
+    </navPoint>
+    <navPoint id="navPoint-68">
+      <navLabel>
+        <text>Chapter 31: Sleight</text>
+      </navLabel>
+      <content src="ch068.xhtml#chapter-31-sleight" />
+    </navPoint>
+    <navPoint id="navPoint-69">
+      <navLabel>
+        <text>Chapter 32: Draw</text>
+      </navLabel>
+      <content src="ch069.xhtml#chapter-32-draw" />
+    </navPoint>
+    <navPoint id="navPoint-70">
+      <navLabel>
+        <text>Chapter 33: Clean-up</text>
+      </navLabel>
+      <content src="ch070.xhtml#chapter-33-clean-up" />
+    </navPoint>
+    <navPoint id="navPoint-71">
+      <navLabel>
+        <text>Chapter 34: Lesson</text>
+      </navLabel>
+      <content src="ch071.xhtml#chapter-34-lesson" />
+    </navPoint>
+    <navPoint id="navPoint-72">
+      <navLabel>
+        <text>Chapter 35: Spur</text>
+      </navLabel>
+      <content src="ch072.xhtml#chapter-35-spur" />
+    </navPoint>
+    <navPoint id="navPoint-73">
+      <navLabel>
+        <text>Chapter 36: Madman</text>
+      </navLabel>
+      <content src="ch073.xhtml#chapter-36-madman" />
+    </navPoint>
+    <navPoint id="navPoint-74">
+      <navLabel>
+        <text>Interlude: Nemeses</text>
+      </navLabel>
+      <content src="ch074.xhtml#interlude-nemeses" />
+    </navPoint>
+    <navPoint id="navPoint-75">
+      <navLabel>
+        <text>Chapter 37: Apprentice</text>
+      </navLabel>
+      <content src="ch075.xhtml#chapter-37-apprentice" />
+    </navPoint>
+    <navPoint id="navPoint-76">
+      <navLabel>
+        <text>Chapter 38: Juncture</text>
+      </navLabel>
+      <content src="ch076.xhtml#chapter-38-juncture" />
+    </navPoint>
+    <navPoint id="navPoint-77">
+      <navLabel>
+        <text>Villainous Interlude: Impresario</text>
+      </navLabel>
+      <content src="ch077.xhtml#villainous-interlude-impresario" />
+    </navPoint>
+    <navPoint id="navPoint-78">
+      <navLabel>
+        <text>Interlude: Rats</text>
+      </navLabel>
+      <content src="ch078.xhtml#interlude-rats" />
+    </navPoint>
+    <navPoint id="navPoint-79">
+      <navLabel>
+        <text>Chapter 39: Countdown</text>
+      </navLabel>
+      <content src="ch079.xhtml#chapter-39-countdown" />
+    </navPoint>
+    <navPoint id="navPoint-80">
+      <navLabel>
+        <text>Heroic Interlude – Prise au Fer</text>
+      </navLabel>
+      <content src="ch080.xhtml#heroic-interlude-prise-aufer" />
+    </navPoint>
+    <navPoint id="navPoint-81">
+      <navLabel>
+        <text>Chapter 40: Knock</text>
+      </navLabel>
+      <content src="ch081.xhtml#chapter-40-knock" />
+    </navPoint>
+    <navPoint id="navPoint-82">
+      <navLabel>
+        <text>Chapter 41: Retrieve</text>
+      </navLabel>
+      <content src="ch082.xhtml#chapter-41-retrieve" />
+    </navPoint>
+    <navPoint id="navPoint-83">
+      <navLabel>
+        <text>Chapter 42: Flaw</text>
+      </navLabel>
+      <content src="ch083.xhtml#chapter-42-flaw" />
+    </navPoint>
+    <navPoint id="navPoint-84">
+      <navLabel>
+        <text>Chapter 43: Truce</text>
+      </navLabel>
+      <content src="ch084.xhtml#chapter-43-truce" />
+    </navPoint>
+    <navPoint id="navPoint-85">
+      <navLabel>
+        <text>Chapter 44: Victory</text>
+      </navLabel>
+      <content src="ch085.xhtml#chapter-44-victory" />
+    </navPoint>
+    <navPoint id="navPoint-86">
+      <navLabel>
+        <text>Chapter 45: Corpses</text>
+      </navLabel>
+      <content src="ch086.xhtml#chapter-45-corpses" />
+    </navPoint>
+    <navPoint id="navPoint-87">
+      <navLabel>
+        <text>Chapter 46: Squire (Redux)</text>
+      </navLabel>
+      <content src="ch087.xhtml#chapter-46-squireredux" />
+    </navPoint>
+    <navPoint id="navPoint-88">
+      <navLabel>
+        <text>Chapter 47: And Justice For All</text>
+      </navLabel>
+      <content src="ch088.xhtml#chapter-47-and-justice-forall" />
+    </navPoint>
+    <navPoint id="navPoint-89">
+      <navLabel>
+        <text>Chapter 48: Threes</text>
+      </navLabel>
+      <content src="ch089.xhtml#chapter-48-threes" />
+    </navPoint>
+    <navPoint id="navPoint-90">
+      <navLabel>
+        <text>Chapter 49: Triumph</text>
+      </navLabel>
+      <content src="ch090.xhtml#chapter-49-triumph" />
+    </navPoint>
+    <navPoint id="navPoint-91">
+      <navLabel>
+        <text>Interlude – Precipitation</text>
+      </navLabel>
+      <content src="ch091.xhtml#interlude-precipitation" />
+    </navPoint>
+    <navPoint id="navPoint-92">
+      <navLabel>
+        <text>Epilogue</text>
+      </navLabel>
+      <content src="ch092.xhtml#epilogue-1" />
+    </navPoint>
+    <navPoint id="navPoint-93">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="ch093.xhtml#prologue-2" />
+    </navPoint>
+    <navPoint id="navPoint-94">
+      <navLabel>
+        <text>Chapter 1: Right</text>
+      </navLabel>
+      <content src="ch094.xhtml#chapter-1-right" />
+    </navPoint>
+    <navPoint id="navPoint-95">
+      <navLabel>
+        <text>Chapter 2: Might</text>
+      </navLabel>
+      <content src="ch095.xhtml#chapter-2-might" />
+    </navPoint>
+    <navPoint id="navPoint-96">
+      <navLabel>
+        <text>Interlude: Gate</text>
+      </navLabel>
+      <content src="ch096.xhtml#interlude-gate" />
+    </navPoint>
+    <navPoint id="navPoint-97">
+      <navLabel>
+        <text>Heroic Interlude: Arraignment</text>
+      </navLabel>
+      <content src="ch097.xhtml#heroic-interlude-arraignment" />
+    </navPoint>
+    <navPoint id="navPoint-98">
+      <navLabel>
+        <text>Chapter 3: Demesne</text>
+      </navLabel>
+      <content src="ch098.xhtml#chapter-3-demesne" />
+    </navPoint>
+    <navPoint id="navPoint-99">
+      <navLabel>
+        <text>Chapter 4: Developments</text>
+      </navLabel>
+      <content src="ch099.xhtml#chapter-4-developments" />
+    </navPoint>
+    <navPoint id="navPoint-100">
+      <navLabel>
+        <text>Chapter 5: Beachhead</text>
+      </navLabel>
+      <content src="ch100.xhtml#chapter-5-beachhead" />
+    </navPoint>
+    <navPoint id="navPoint-101">
+      <navLabel>
+        <text>Chapter 6: Backlash</text>
+      </navLabel>
+      <content src="ch101.xhtml#chapter-6-backlash" />
+    </navPoint>
+    <navPoint id="navPoint-102">
+      <navLabel>
+        <text>Chapter 7: Elaboration</text>
+      </navLabel>
+      <content src="ch102.xhtml#chapter-7-elaboration" />
+    </navPoint>
+    <navPoint id="navPoint-103">
+      <navLabel>
+        <text>Villainous Interlude: Chiaroscuro</text>
+      </navLabel>
+      <content src="ch103.xhtml#villainous-interlude-chiaroscuro" />
+    </navPoint>
+    <navPoint id="navPoint-104">
+      <navLabel>
+        <text>Heroic Interlude: Appellant</text>
+      </navLabel>
+      <content src="ch104.xhtml#heroic-interlude-appellant" />
+    </navPoint>
+    <navPoint id="navPoint-105">
+      <navLabel>
+        <text>Chapter 8: Lies</text>
+      </navLabel>
+      <content src="ch105.xhtml#chapter-8-lies" />
+    </navPoint>
+    <navPoint id="navPoint-106">
+      <navLabel>
+        <text>Chapter 9: More Lies</text>
+      </navLabel>
+      <content src="ch106.xhtml#chapter-9-morelies" />
+    </navPoint>
+    <navPoint id="navPoint-107">
+      <navLabel>
+        <text>Chapter 11: Swerve</text>
+      </navLabel>
+      <content src="ch107.xhtml#chapter-11-swerve" />
+    </navPoint>
+    <navPoint id="navPoint-108">
+      <navLabel>
+        <text>Chapter 11: Swerve</text>
+      </navLabel>
+      <content src="ch108.xhtml#chapter-11-swerve-1" />
+    </navPoint>
+    <navPoint id="navPoint-109">
+      <navLabel>
+        <text>Chapter 12: Double Down</text>
+      </navLabel>
+      <content src="ch109.xhtml#chapter-12-doubledown" />
+    </navPoint>
+    <navPoint id="navPoint-110">
+      <navLabel>
+        <text>Chapter 13: Forgery</text>
+      </navLabel>
+      <content src="ch110.xhtml#chapter-13-forgery" />
+    </navPoint>
+    <navPoint id="navPoint-111">
+      <navLabel>
+        <text>Chapter 14: Trick</text>
+      </navLabel>
+      <content src="ch111.xhtml#chapter-14-trick" />
+    </navPoint>
+    <navPoint id="navPoint-112">
+      <navLabel>
+        <text>Chapter 15: Bestowal</text>
+      </navLabel>
+      <content src="ch112.xhtml#chapter-15-bestowal" />
+    </navPoint>
+    <navPoint id="navPoint-113">
+      <navLabel>
+        <text>Villainous Interlude: Proscenium</text>
+      </navLabel>
+      <content src="ch113.xhtml#villainous-interlude-proscenium" />
+    </navPoint>
+    <navPoint id="navPoint-114">
+      <navLabel>
+        <text>Villainous Interlude: Stormfront</text>
+      </navLabel>
+      <content src="ch114.xhtml#villainous-interlude-stormfront" />
+    </navPoint>
+    <navPoint id="navPoint-115">
+      <navLabel>
+        <text>Chapter 16: Shambles</text>
+      </navLabel>
+      <content src="ch115.xhtml#chapter-16-shambles" />
+    </navPoint>
+    <navPoint id="navPoint-116">
+      <navLabel>
+        <text>Chapter 17: Allegiance</text>
+      </navLabel>
+      <content src="ch116.xhtml#chapter-17-allegiance" />
+    </navPoint>
+    <navPoint id="navPoint-117">
+      <navLabel>
+        <text>Chapter 18: Crack</text>
+      </navLabel>
+      <content src="ch117.xhtml#chapter-18-crack" />
+    </navPoint>
+    <navPoint id="navPoint-118">
+      <navLabel>
+        <text>Chapter 19: Order (Redux)</text>
+      </navLabel>
+      <content src="ch118.xhtml#chapter-19-orderredux" />
+    </navPoint>
+    <navPoint id="navPoint-119">
+      <navLabel>
+        <text>Chapter 20: Skew</text>
+      </navLabel>
+      <content src="ch119.xhtml#chapter-20-skew" />
+    </navPoint>
+    <navPoint id="navPoint-120">
+      <navLabel>
+        <text>Chapter 21: Example</text>
+      </navLabel>
+      <content src="ch120.xhtml#chapter-21-example" />
+    </navPoint>
+    <navPoint id="navPoint-121">
+      <navLabel>
+        <text>Chapter 22: Govern</text>
+      </navLabel>
+      <content src="ch121.xhtml#chapter-22-govern" />
+    </navPoint>
+    <navPoint id="navPoint-122">
+      <navLabel>
+        <text>Chapter 23: Reassessment</text>
+      </navLabel>
+      <content src="ch122.xhtml#chapter-23-reassessment" />
+    </navPoint>
+    <navPoint id="navPoint-123">
+      <navLabel>
+        <text>Interlude – Apprentice</text>
+      </navLabel>
+      <content src="ch123.xhtml#interlude-apprentice" />
+    </navPoint>
+    <navPoint id="navPoint-124">
+      <navLabel>
+        <text>Villainous Interlude: Exeunt</text>
+      </navLabel>
+      <content src="ch124.xhtml#villainous-interlude-exeunt" />
+    </navPoint>
+    <navPoint id="navPoint-125">
+      <navLabel>
+        <text>Villainous Interlude: Decorum</text>
+      </navLabel>
+      <content src="ch125.xhtml#villainous-interlude-decorum" />
+    </navPoint>
+  </navMap>
+</ncx>
