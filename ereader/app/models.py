@@ -15,7 +15,7 @@ class Book(models.Model):
     title = models.CharField(max_length=255, null=True, verbose_name="Назва")
     author = models.CharField(max_length=100, null=True, verbose_name="Автор")
     #description = models.TextField(verbose_name="Опис")
-    book_tags = models.ManyToManyField(Category, verbose_name="Теги")
+    #book_tags = models.ManyToManyField(Category, verbose_name="Теги")
     book_src = models.FileField(upload_to="books/", verbose_name="Книга")
     cover_src = models.FileField(upload_to="books/", null=True, verbose_name="Обладинка")
     folder_src = models.FileField(null=True, verbose_name="Папка для данних")

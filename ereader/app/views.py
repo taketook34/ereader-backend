@@ -8,7 +8,7 @@ from rest_framework.response import Response
 from .models import *
 from rest_framework import generics
 
-from .serializers import BookSerializer
+from .serializers import *
 import zipfile
 from lxml import etree
 namespaces = {
@@ -23,7 +23,7 @@ namespaces = {
 
 class BookAPIList(generics.ListAPIView):
     queryset = Book.objects.all()
-    serializer_class = BookSerializer
+    serializer_class = BookViewSerializer
 
 
 class BookAPICreate(generics.CreateAPIView):
@@ -59,6 +59,7 @@ class BookAPICreate(generics.CreateAPIView):
             print(os.path.join(serializer.data['book_src'][8:-5], cover))
             obj.cover_src = os.path.join(serializer.data['book_src'][8:-5], cover)
 
+
         obj.save()
 
         os.system(f"unzip -o ./{serializer.data['book_src']} -d .{serializer.data['book_src'].replace(' ', '_')[:-5]}")
@@ -67,7 +68,7 @@ class BookAPICreate(generics.CreateAPIView):
 
 class BookAPIDetailView(generics.RetrieveUpdateDestroyAPIView, generics.RetrieveAPIView):
     queryset = Book.objects.all()
-    serializer_class = BookSerializer
+    serializer_class = BookViewSerializer
 
 class BookAPIDestroy(generics.DestroyAPIView):
     queryset = Book.objects.all()
