@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="80c3a508-2850-45b8-83a3-afe7904e9072"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.12.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Council of Arches</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="u8ghBVWojZjVZngvQf3Bv5A" playOrder="1">
+      <navLabel>
+        <text>Preface</text>
+      </navLabel>
+      <content src="The%20Council%20of%20Arches_split_000.xhtml"/>
+    </navPoint>
+    <navPoint id="uSz7ilKCXf3punUVOV5LwTF" playOrder="2">
+      <navLabel>
+        <text>Chapter 1</text>
+      </navLabel>
+      <content src="The%20Council%20of%20Arches_split_002.xhtml"/>
+    </navPoint>
+    <navPoint id="umKCE26KXfGdkO5E3erJChC" playOrder="3">
+      <navLabel>
+        <text>The Rules of Arches</text>
+      </navLabel>
+      <content src="The%20Council%20of%20Arches_split_003.xhtml"/>
+    </navPoint>
+    <navPoint id="uiBpo2Bxgt2UHscNxQtmWGD" playOrder="4">
+      <navLabel>
+        <text>Afterword</text>
+      </navLabel>
+      <content src="The%20Council%20of%20Arches_split_013.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
