@@ -66,9 +66,9 @@ class BookAPICreate(generics.CreateAPIView):
         return Response({'books': BookSerializer(obj).data})
 
 
-class BookAPIDetailView(generics.RetrieveUpdateDestroyAPIView, generics.RetrieveAPIView):
+class BookAPIDetailView(generics.UpdateAPIView):
     queryset = Book.objects.all()
-    serializer_class = BookViewSerializer
+    serializer_class = BookChangeBookmarkSerializer
 
 class BookAPIDestroy(generics.DestroyAPIView):
     queryset = Book.objects.all()
